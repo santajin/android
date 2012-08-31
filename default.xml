@@ -333,7 +333,7 @@
   <project path="hardware/libhardware_legacy" name="epinter/android_hardware_libhardware_legacy"  revision="epinter-olympus"/>
   <project path="packages/apps/Camera" name="epinter/android_packages_apps_Camera"  revision="epinter-olympus"/>
   <project path="device/motorola/olympus" name="epinter/android_device_motorola_olympus"/>
-  <project path="kernel/motorola/olympus" name="epinter/kernel-MB860" revision="ics"/>
+  <project path="kernel/motorola/olympus" name="epinter/kernel-MB860"/>
   <project path="kernel/motorola/olympus/wifi-module" name="epinter/olympus-wifi-module"/>
   <project path="device/motorola/olympus/HwaSettings" name="epinter/HwaSettings"/>
   <project path="vendor/motorola" name="Atrix-Dev-Team/proprietary_vendor_motorola" revision="ics"/>
