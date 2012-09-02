@@ -337,6 +337,6 @@
   <project path="kernel/motorola/olympus/wifi-module" name="epinter/olympus-wifi-module"/>
   <project path="device/motorola/olympus/HwaSettings" name="epinter/HwaSettings"/>
   <project path="vendor/motorola" name="Atrix-Dev-Team/proprietary_vendor_motorola" revision="ics"/>
-  <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" revision="ics"/>
+  <project path="packages/apps/Usb" name="epinter/android_packages_apps_Usb"/>
   <project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" revision="gingerbread"/>
 </manifest>
