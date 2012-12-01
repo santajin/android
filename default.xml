@@ -20,8 +20,6 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="CyanogenMod/android" />
-
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
@@ -374,4 +372,11 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+
+  <project path="kernel/motorola/msm8960-common" name="epinter/android_kernel_motorola_msm8960-common"/>
+  <project path="device/motorola/msm8960-common" name="epinter/android_device_motorola_msm8960-common"/>
+  <project path="device/motorola/vanquish-common" name="epinter/android_device_motorola_vanquish-common"/>
+  <project path="device/motorola/xt925" name="epinter/android_device_motorola_xt925"/>
+  <project path="device/motorola/xt926" name="epinter/android_device_motorola_xt926"/>
+  <project path="android" name="epinter/android" revision="mr1-staging-xt925"/>
 </manifest>
