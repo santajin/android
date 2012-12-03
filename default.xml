@@ -377,6 +377,6 @@
   <project path="device/motorola/msm8960-common" name="epinter/android_device_motorola_msm8960-common"/>
   <project path="device/motorola/vanquish-common" name="epinter/android_device_motorola_vanquish-common"/>
   <project path="device/motorola/xt925" name="epinter/android_device_motorola_xt925"/>
-  <project path="device/motorola/xt926" name="epinter/android_device_motorola_xt926"/>
+  <project path="device/motorola/xt926dev" name="epinter/android_device_motorola_xt926dev"/>
   <project path="android" name="epinter/android" revision="mr1-staging-xt925"/>
 </manifest>
