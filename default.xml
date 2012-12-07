@@ -340,6 +340,5 @@
   <project path="device/motorola/xt925" name="epinter/android_device_motorola_xt925"/>
   <project path="device/motorola/xt926dev" name="epinter/android_device_motorola_xt926dev"/>
   <project path="android" name="epinter/android" revision="jb-xt925"/>
-  <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" revision="mr1-staging"/>
 
 </manifest>
