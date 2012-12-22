@@ -374,6 +374,7 @@
   <project path="external/webkit" name="epinter/android_external_webkit"  revision="epinter-olympus-mr1"/>
   <project path="hardware/libhardware_legacy" name="epinter/android_hardware_libhardware_legacy"  revision="epinter-olympus-mr1"/>
   <project path="packages/apps/Camera" name="epinter/android_packages_apps_Camera"  revision="epinter-olympus-mr1"/>
+  <project path="packages/apps/Gallery2" name="epinter/android_packages_apps_Gallery2"  revision="epinter-olympus-mr1"/>
   <project path="device/motorola/olympus" name="epinter/android_device_motorola_olympus"/>
   <project path="kernel/motorola/olympus" name="epinter/kernel-MB860" revision="jellybean"/>
   <project path="kernel/motorola/olympus/wifi-module" name="epinter/olympus-wifi-module"/>
