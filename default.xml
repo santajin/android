@@ -353,7 +353,6 @@
   <project path="system/core" name="CyanogenMod/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
-  <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/security" name="CyanogenMod/android_system_security" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
@@ -370,6 +369,7 @@
   <project path="frameworks/av" name="epinter/android_frameworks_av" revision="epinter-olympus-mr1"/>
   <project path="frameworks/base" name="epinter/android_frameworks_base"  revision="epinter-olympus-mr1"/>
   <project path="frameworks/native" name="epinter/android_frameworks_native"  revision="epinter-olympus-mr1"/>
+  <project path="system/netd" name="epinter/android_system_netd" revision="epinter-olympus-mr1" />
   <project path="bionic" name="epinter/android_bionic"  revision="epinter-olympus-mr1"/>
   <project path="external/webkit" name="epinter/android_external_webkit"  revision="epinter-olympus-mr1"/>
   <project path="hardware/libhardware_legacy" name="epinter/android_hardware_libhardware_legacy"  revision="epinter-olympus-mr1"/>
