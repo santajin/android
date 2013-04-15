@@ -376,4 +376,8 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+
+  <project path="android" name="epinter/android" revision="cm-10.1-olympus-new"/>
+  <project path="device/motorola/olympus" name="epinter/android_device_motorola_olympus" revision="cm-10.1-new"/>
+  <project path="kernel/motorola/olympus" name="CyanogenMod-Atrix/android_kernel_motorola_olympus" revision="master"/>
 </manifest>
