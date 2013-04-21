@@ -379,8 +379,10 @@
   <project path="device/motorola/xt925" name="razrqcom-dev-team/android_device_motorola_xt925"/>
   <project path="device/motorola/xt907" name="razrqcom-dev-team/android_device_motorola_xt907"/>
   <project path="device/motorola/xt926" name="razrqcom-dev-team/android_device_motorola_xt926"/>
+  <project path="device/motorola/mb886" name="razrqcom-dev-team/android_device_motorola_mb886"/>
   <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925"/>
   <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926"/>
   <project path="vendor/motorola/xt907" name="razrqcom-dev-team/android_vendor_motorola_xt907"/>
+  <project path="vendor/motorola/mb886" name="razrqcom-dev-team/android_vendor_motorola_mb886"/>
   <project path="android" name="epinter/android" revision="cm-10.1-xt925"/>
 </manifest>
