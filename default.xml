@@ -332,5 +332,5 @@
   <project path="frameworks/av" name="epinter/android_frameworks_av" revision="epinter-olympus-new"/>
   <project path="frameworks/base" name="epinter/android_frameworks_base" revision="epinter-olympus-new"/>
   <project path="device/motorola/olympus" name="santajin/android_device_motorola_olympus" revision="jb-new"/>
-  <project path="kernel/motorola/olympus" name="CyanogenMod-Atrix/android_kernel_motorola_olympus" revision="master"/>
+  <project path="kernel/motorola/olympus" name="santajin/android_kernel_motorola_olympus" revision="master"/>
 </manifest>
